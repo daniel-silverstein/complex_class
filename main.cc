@@ -1,7 +1,8 @@
 
-#include "complex_class.cc"
+#include "Complex_Int.h"
 #include <iostream>
 
+// testing complex integer class
 int main() {
 	Complex_Int a(2, 3);
 	Complex_Int b;
